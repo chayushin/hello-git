@@ -15,5 +15,9 @@ public class Main {
 		new Cat().jump();
 		new Eagle().fly();
 	}
+	
+	public void test() {
+		System.out.println("Main#test");
+	}
 
 }
