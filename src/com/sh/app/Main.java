@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("HELLO WORLD");
 		System.out.println("HELLO GIT");
 		
+		System.out.println("Animal Go~");
 		new Dog().bark();
 		new Cat().jump();
 		new Eagle().fly();
